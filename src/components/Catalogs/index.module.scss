@@ -1,0 +1,47 @@
+
+.catalog{
+    background-color: #131313;
+    color: white;
+    position: relative;
+    height: 320px;
+}
+
+.catalogs {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    font-weight: 400;
+    font-size: 14px;
+   
+    color: #D4D4D4;
+    padding: 80px;
+}
+
+// .catalogs p{
+//     align-items: center;
+//     align-content: center;
+// }
+
+.catalog1{
+    height: 136px;
+    width: 200px;
+}
+
+.catalog2{
+    height: 136px;
+    width: 200px;
+}
+
+.catalog3{
+    height: 136px;
+    width: 200px;
+    
+}
+
+.catalog4{
+    height: 136px;
+    width: 200px;
+
+}
+

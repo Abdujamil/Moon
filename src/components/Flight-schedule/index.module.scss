@@ -1,0 +1,67 @@
+.timeAir{
+    background-color: rgba(34, 34, 34, 1);
+    height: 468px;
+    color: white;
+    padding: 97px 160px 85px 160px;
+    align-items: center;
+}
+
+.timeAir h2{
+    width: 159px;
+    height: 56px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 27px;
+    margin: 0;
+    color: rgba(254, 202, 48, 1);
+}
+
+.airText {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.timeAir .airText p {
+    width: 467px;
+    height: 55px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+}
+.timeAir .airText p a{
+    color: rgba(254, 202, 48, 1);
+}
+
+
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+    text-align: left; 
+}  
+
+.table{
+    align-items: center;
+    width: 100%;
+}
+
+.table th {
+	padding: 15px;
+	background: rgba(17, 17, 17, 1);
+	border: none;
+}
+.table td {
+	padding: 15px;
+	border: none;
+	border-bottom: 5px solid 
+    rgba(34, 34, 34, 1);
+    border-bottom: 1px solid 
+    rgba(85, 85, 85, 1);
+}
+.table tr{
+    border: none;
+    width: 100%;
+    height: 50px;
+}
