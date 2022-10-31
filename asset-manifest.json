@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Moon/static/css/main.55e568ad.css",
+    "main.js": "/Moon/static/js/main.3a039eea.js",
+    "static/media/map 1.png": "/Moon/static/media/map 1.ef7b8a5b9a8041056afa.png",
+    "static/media/moon-rocket 1.png": "/Moon/static/media/moon-rocket 1.b3ec91360eb35cda2403.png",
+    "static/media/right-arrow-white 1.svg": "/Moon/static/media/right-arrow-white 1.b45f3f190ed8920713933908c276eddb.svg",
+    "index.html": "/Moon/index.html",
+    "main.55e568ad.css.map": "/Moon/static/css/main.55e568ad.css.map",
+    "main.3a039eea.js.map": "/Moon/static/js/main.3a039eea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55e568ad.css",
+    "static/js/main.3a039eea.js"
+  ]
+}
